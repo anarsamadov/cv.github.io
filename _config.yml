@@ -2,8 +2,8 @@
 
 # Site Settings
 title: Anar Samadov
-url: 'https://anarsamadov.github.io/blogtest.github.io'
-baseurl: 'https://anarsamadov.github.io/blogtest.github.io' #change it according to your repository name
+url: 'https://anarsamadov.github.io/cv.github.io'
+baseurl: 'https://anarsamadov.github.io/cv.github.io' #change it according to your repository name
 description: Online CV
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: turquoise # blue turquoise green berry orange ceramic
